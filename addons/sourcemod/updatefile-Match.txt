@@ -1,0 +1,14 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"1.0.0"
+		}
+	}
+	"Files"
+	{
+
+	}
+}
