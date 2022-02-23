@@ -1,0 +1,44 @@
+"GameModes_Server.txt"
+{
+	"gameTypes"
+	            {
+					"classic"
+				           {
+							   "gameModes"
+						                {
+						                     "competitive"
+											{
+						                    	"maxplayers" "19"
+						                    	"exec"
+						                    	  {
+						                    	"exec"	"gamemode_Match.cfg"
+						                    	  }
+						                    	"mapgroupsMP"						
+						                    	  {
+						                    	"mg_public_se" 	""
+						                    	  }
+						                    }
+						                }
+				           }
+	            }
+	"mapgroups"
+	{
+		"mg_public_se"									
+		{
+			"name"			"mg_public_se"
+			"maps"
+			{
+				"de_mirage"		"1"
+				"de_dust2"		"2"
+				"de_nuke"		"3"
+				"de_train"		"4"
+				"de_inferno"	"5"
+				"cs_office"		"6"
+                "de_cache"      "7"
+                "de_overpass"   "8"
+                "de_vertigo"    "9"
+		    }	
+		}
+		
+	}
+}
