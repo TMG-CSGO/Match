@@ -1,5 +1,5 @@
 #include <updater>
-#define UPDATE_URL "https://raw.githubusercontent.com/TMG-CSGO/Mtach/main/addons/sourcemod/updatefile-Match.txt"
+#define UPDATE_URL "https://raw.githubusercontent.com/TMG-CSGO/Match/main/addons/sourcemod/updatefile-Match.txt"
 public Plugin myinfo = 
 {
 	name = "auto updater",
